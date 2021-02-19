@@ -23,6 +23,14 @@ Per lanciare l'applicativo in locale lanciare il comando:
 
 ```sh
 clean install spring-boot:run
+---
+
+## SWAGGER 
+
+Per accedere all'interfaccia Swagger andare su
+
+```sh
+  http://localhost:8080/swagger-ui.html#/
 ```
 
 ## Tech
@@ -51,8 +59,8 @@ Practies e tools utilizzati:
 ## TO DO
 - Test su rest API
 - Test connessione a DB
-- Descrizione metodi/ descrizioni api
+- Descrizione metodi/ descrizioni api e model
 - Ridefinire packaging Dto
 - Refactoring Dto
-- Differenziare rest bad response
+- Rest Error Handling - Differenziare rest bad response
 - Rest interceptors per aggiunta api-key e schema
