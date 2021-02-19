@@ -23,7 +23,7 @@ Per lanciare l'applicativo in locale lanciare il comando:
 
 ```sh
 clean install spring-boot:run
----
+```
 
 ## SWAGGER 
 
