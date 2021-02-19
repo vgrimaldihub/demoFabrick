@@ -49,10 +49,10 @@ Practies e tools utilizzati:
 -  Vittorio Grimaldi (v.grimaldi1993@gmail.com)
 
 ## TO DO
--- Test su rest API
--- Test connessione a DB
--- Descrizione metodi/ descrizioni api
--- ridefinire packaging Dto
--- refactoring Dto
--- differenziare rest bad response
--- rest interceptors per aggiunta api-key e schema
+- Test su rest API
+- Test connessione a DB
+- Descrizione metodi/ descrizioni api
+- Ridefinire packaging Dto
+- Refactoring Dto
+- Differenziare rest bad response
+- Rest interceptors per aggiunta api-key e schema
